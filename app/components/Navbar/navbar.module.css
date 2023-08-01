@@ -1,0 +1,28 @@
+.container{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Dela_Gothic_One';
+}
+.links{
+    font-weight: normal;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Zen Antique';
+}
+.logout{
+    padding: 5px;
+    border: none;
+    background-color: #ED5C9B;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+    font-family: 'Zen Antique'
+}

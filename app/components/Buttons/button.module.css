@@ -1,0 +1,11 @@
+
+.container{
+    padding: 20px;
+    cursor: pointer;
+    background-color: #ED5C9B;
+    color: white;
+    font-family: 'Zen Antique';
+    border: none;
+    border-radius: 5px;
+    width: max-content;
+}
